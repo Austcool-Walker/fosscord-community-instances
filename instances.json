@@ -17,4 +17,10 @@
 		"description": "MaddyUnderStars' development instance. 24/7 uptime, data persistence, with many new and not yet merged features.",
 		"image": "https://slowcord.understars.dev/attachments/992786774428320167/1005292082573796165/Ducky.jpg"
 	}
+	{
+		"name": "N3RDP0RT4L HQ",
+		"url": "http://N3RDP0RT4L.duckdns.org:9999/app",
+		"description": "N3RDP0RT4L HQ's Global Chatroom. Runs stock legacy Bizcord.",
+		"image": "https://n3rdp0rt4l.gitlab.io/n3rdp0rt4l/Finder.Red.png"
+	}
 ]
